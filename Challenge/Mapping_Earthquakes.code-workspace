@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Week_13_Module/Mapping_Earthquakes"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Plotly-Belly-Button-Biodiversity"
+	}
+}
